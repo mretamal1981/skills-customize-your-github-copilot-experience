@@ -14,7 +14,7 @@ Use this instruction set for any markdown file inside the assignments folder.
 - Keep the heading structure aligned with the project template
 - Include the following sections in order:
   - `# 📘 Assignment: [Title]`
-  - `## 🎯 Objective`
+  - `## 🎯 Objective
   - `## 📝 Tasks`
   - `### 🛠️ [Task Name]`
   - `#### Description`

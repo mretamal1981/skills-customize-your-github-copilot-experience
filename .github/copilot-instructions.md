@@ -12,7 +12,7 @@ This project is an educational website for sharing homework assignments and codi
 ## Project Guidelines
 
 - Maintain consistent styling across all pages
-- Keep file and folder names descriptive and organized
+- Keep file and folder names descriptive and organizedgit status
 
 ## Educational Standards
 
